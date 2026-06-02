@@ -1,0 +1,111 @@
+[2026-05-18 18:26:20] === Aplicacion iniciada ===
+[2026-05-18 18:26:20] [Login] Pantalla Login cargada. Usuario por defecto: admin
+[2026-05-18 18:26:20] Coordinador: ingresando a Login
+[2026-05-18 18:26:29] [Login] Login exitoso: usuario=admin
+[2026-05-18 18:26:29] [EditorPrincipal] Editor iniciado con lenguaje C++
+[2026-05-18 18:26:29] [EditorPrincipal] Resize a 1536x864
+[2026-05-18 18:26:29] [EditorPrincipal] Resize a 1536x864
+[2026-05-18 18:26:29] Coordinador: saliendo de Login
+[2026-05-18 18:26:29] Coordinador: ingresando a EditorPrincipal
+[2026-05-18 18:26:39] [EditorPrincipal] Lenguaje cambiado a Python
+[2026-05-18 18:26:40] [EditorPrincipal] Lenguaje cambiado a C++
+[2026-05-18 18:26:47] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:26:50] [EditorPrincipal] Validacion fallo en linea 8: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:26:53] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:00] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:12] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:28] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:29] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:32] [EditorPrincipal] Validacion fallo en linea 8: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:34] [EditorPrincipal] Validacion fallo en linea 8: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:27:40] [EditorPrincipal] Validacion fallo en linea 8: Falta punto y coma ';' al final de la sentencia.
+[2026-05-18 18:27:40] [EditorPrincipal] Validacion fallo en linea 8: Falta punto y coma ';' al final de la sentencia.
+[2026-05-18 18:27:47] [EditorPrincipal] Validacion fallo en linea 5: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-18 18:28:18] [EditorPrincipal] Cierre confirmado
+[2026-05-18 18:28:18] === Aplicacion finalizada ===
+[2026-05-20 19:09:58] === Aplicacion iniciada ===
+[2026-05-20 19:09:58] [Login] Pantalla Login cargada. Usuario por defecto: admin
+[2026-05-20 19:09:58] Coordinador: ingresando a Login
+[2026-05-20 19:10:59] [Login] Login exitoso: usuario=admin
+[2026-05-20 19:11:00] [EditorPrincipal] Editor iniciado con lenguaje C++
+[2026-05-20 19:11:00] [EditorPrincipal] Resize a 1536x864
+[2026-05-20 19:11:00] [EditorPrincipal] Resize a 1536x864
+[2026-05-20 19:11:00] Coordinador: saliendo de Login
+[2026-05-20 19:11:00] Coordinador: ingresando a EditorPrincipal
+[2026-05-20 19:11:06] [EditorPrincipal] Validacion fallo en linea 9: Falta punto y coma ';' al final de la sentencia.
+[2026-05-20 19:11:06] [EditorPrincipal] Validacion fallo en linea 9: Falta punto y coma ';' al final de la sentencia.
+[2026-05-20 19:11:13] [EditorPrincipal] Validacion fallo en linea 8: Parentesis, llaves o corchetes desbalanceados.
+[2026-05-20 19:11:14] [EditorPrincipal] Cierre confirmado
+[2026-05-20 19:11:14] === Aplicacion finalizada ===
+[2026-05-31 16:42:27] === Aplicacion iniciada ===
+[2026-05-31 16:42:27] [Login] Pantalla Login cargada. Usuario por defecto: admin
+[2026-05-31 16:42:27] Coordinador: ingresando a Login
+[2026-05-31 16:42:31] [Login] Login exitoso: usuario=admin
+[2026-05-31 16:42:31] [EditorPrincipal] Editor iniciado con lenguaje C++
+[2026-05-31 16:42:31] [EditorPrincipal] Resize a 1536x864
+[2026-05-31 16:42:31] [EditorPrincipal] Resize a 1536x864
+[2026-05-31 16:42:31] Coordinador: saliendo de Login
+[2026-05-31 16:42:31] Coordinador: ingresando a EditorPrincipal
+[2026-05-31 16:52:20] [EditorPrincipal] Cierre confirmado
+[2026-05-31 16:52:20] === Aplicacion finalizada ===
+[2026-05-31 17:14:38] === Aplicacion iniciada ===
+[2026-05-31 17:14:38] [Login] Pantalla Login cargada. Usuario por defecto: admin
+[2026-05-31 17:14:38] Coordinador: ingresando a Login
+[2026-05-31 17:14:40] [Login] Login exitoso: usuario=admin
+[2026-05-31 17:14:40] [EditorPrincipal] Editor iniciado con lenguaje C++
+[2026-05-31 17:14:40] [EditorPrincipal] Resize a 1536x864
+[2026-05-31 17:14:40] [EditorPrincipal] Resize a 1536x864
+[2026-05-31 17:14:40] Coordinador: saliendo de Login
+[2026-05-31 17:14:40] Coordinador: ingresando a EditorPrincipal
+[2026-05-31 17:14:49] [EditorPrincipal] Validacion fallo en linea 7: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 17:14:49] [EditorPrincipal] Validacion fallo en linea 7: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 17:16:37] [EditorPrincipal] Validacion fallo en linea 7: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 17:16:38] [EditorPrincipal] Validacion fallo en linea 7: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 17:16:42] [EditorPrincipal] Validacion fallo en linea 7: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 17:16:45] [EditorPrincipal] Validacion fallo en linea 7: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 17:16:54] [EditorPrincipal] Cierre confirmado
+[2026-05-31 17:16:54] === Aplicacion finalizada ===
+[2026-05-31 18:36:03] === Aplicacion iniciada ===
+[2026-05-31 18:36:03] [Login] Pantalla Login cargada. Usuario por defecto: admin
+[2026-05-31 18:36:03] Coordinador: ingresando a Login
+[2026-05-31 18:36:06] [Login] Login exitoso: usuario=admin
+[2026-05-31 18:36:06] [EditorPrincipal] Editor iniciado con lenguaje C++
+[2026-05-31 18:36:06] [EditorPrincipal] Resize a 1536x864
+[2026-05-31 18:36:06] [EditorPrincipal] Resize a 1536x864
+[2026-05-31 18:36:06] Coordinador: saliendo de Login
+[2026-05-31 18:36:06] Coordinador: ingresando a EditorPrincipal
+[2026-05-31 18:36:18] [EditorPrincipal] Validacion fallo en linea 9: Paréntesis o corchetes desbalanceados.
+[2026-05-31 18:36:18] [EditorPrincipal] Validacion fallo en linea 6: Las estructuras de control requieren paréntesis: if(...).
+[2026-05-31 18:36:18] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:36:18] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:36:19] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:36:19] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:36:20] [EditorPrincipal] Validacion fallo en linea 6: Las estructuras de control requieren paréntesis: if(...).
+[2026-05-31 18:36:45] [EditorPrincipal] Validacion fallo en linea 6: Las estructuras de control requieren paréntesis: if(...).
+[2026-05-31 18:36:45] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:36:45] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:36:51] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:36:54] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:36:54] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:36:54] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:36:55] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:36:58] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:00] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:01] [EditorPrincipal] Validacion fallo en linea 6: Las estructuras de control requieren paréntesis: if(...).
+[2026-05-31 18:37:02] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:02] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:03] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:06] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:07] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:08] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:08] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:09] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:09] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:13] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:20] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:23] [EditorPrincipal] Validacion fallo en linea 4: Falta punto y coma ';' al final de la sentencia.
+[2026-05-31 18:37:25] [EditorPrincipal] Validacion fallo en linea 5: Comillas sin cerrar en la línea.
+[2026-05-31 18:37:27] [EditorPrincipal] Validacion fallo en linea 6: Las estructuras de control requieren paréntesis: if(...).
+[2026-05-31 18:37:34] [EditorPrincipal] Validacion fallo en linea 9: Paréntesis o corchetes desbalanceados.
+[2026-05-31 18:37:40] [EditorPrincipal] Cierre confirmado
+[2026-05-31 18:37:40] === Aplicacion finalizada ===
